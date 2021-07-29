@@ -17,10 +17,12 @@ header h1 {
 
 .logo {
     background-color: white;
+    box-shadow: 3px 3px 5px #192231;
 }
 
 .nav-bar {
     background-color: #494E6B;
+    box-shadow: 5px 5px #192231;
 }
 
 .nav-bar ul {
@@ -29,11 +31,13 @@ header h1 {
 }
 
 .nav-bar li {  
-    background-color: #985E6D;   
+    background-color: #985E6D;
+    box-shadow: 3px 3px #192231;   
 }
 
 .nav-bar a {
     color: white;
+    text-shadow: 1px 1px #192231;
     font-family: "Rajdhani";
     font-weight: bold;
     text-decoration: none;
@@ -55,6 +59,7 @@ article h2 {
 
 .section {
     background-color: #985E6D;
+    box-shadow: 3px 3px #192231, -3px -3px #192231;
 }
 
 .color-grid {
